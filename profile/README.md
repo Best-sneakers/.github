@@ -1,12 +1,39 @@
-## Hi there 👋
-Заполнить
-<!--
+Welcome to the GitHub organization for our study project at HSE University.
 
-**Here are some ideas to get you started:**
+## About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are a group of students at HSE University working on a collaborative study project. Our project focuses on createting а service to find similar sneakers
+
+## Project Details
+
+- **Project Name**: Sneakers Alike
+- **Academic Year**: 2023-2024
+- **Instructor**: Evgeny Plyushch
+
+## Project Description
+
+
+
+## Repository
+
+
+
+## Contribution Guidelines
+
+place code guilines
+
+## Code of Conduct
+
+Palace  code of conudct 
+
+## Get in Touch
+
+If you have any questions or want to reach out to the project team, you can contact us via:
+
+- Join our project discussion on telegram [https://t.me/+KEsXgzTzp50wYjIy)
+
+## Support
+
+If you have any suggestions, feedback, or ideas to support our study project, feel free to get in touch. We appreciate your involvement and feedback.
+
+Thank you for your interest in our HSE University study project. We look forward to working together on this exciting journey.
