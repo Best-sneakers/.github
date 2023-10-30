@@ -8,7 +8,7 @@ We are a group of students at HSE University working on a collaborative study pr
 
 - **Project Name**: Sneakers Alike
 - **Academic Year**: 2023-2024
-- **Instructor**: Evgeny Plyushch
+- **Instructor**: [Evgeny Plyushch](https://github.com/Zhekuson)
 
 ## Project Description
 
