@@ -11,12 +11,14 @@ We are a group of students at HSE University working on a collaborative study pr
 - **Instructor**: [Evgeny Plyushch](https://github.com/Zhekuson)
 
 ## Project Description
+Our project's goal is to create a high-quality service for finding similar sneakers based on a photograph.
 
 
+## Repositories
+Here is the list of our repostories
 
-## Repository
-
-
+- [init repository](https://github.com/Best-sneakers/parser)
+  
 
 ## Contribution Guidelines
 
@@ -30,7 +32,7 @@ Palace  code of conudct
 
 If you have any questions or want to reach out to the project team, you can contact us via:
 
-- Join our project discussion on telegram [https://t.me/+KEsXgzTzp50wYjIy)
+- Join our project discussion on telegram [Sneakers_projecct_movs ](https://t.me/+KEsXgzTzp50wYjIy)
 
 ## Support
 
